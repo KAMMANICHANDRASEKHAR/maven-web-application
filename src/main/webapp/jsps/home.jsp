@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to VALUELABS,HYDERABAD</h1>
+<h1 align="center">Welcome to VALUELABS HYDERABAD</h1>
 <h1 align="center"> KAMMANI CHANDRASEKHAR</h1>
 <hr>
 <br>
